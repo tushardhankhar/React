@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is repo by Tushar",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushardhankhar/React.git"
+  },
+  "author": "Tushar Dhankhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushardhankhar/React/issues"
+  },
+  "homepage": "https://github.com/tushardhankhar/React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
